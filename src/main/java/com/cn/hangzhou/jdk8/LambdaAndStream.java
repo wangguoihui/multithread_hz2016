@@ -122,6 +122,8 @@ public class LambdaAndStream {
     /**
      * 对列表的每个元素应用函数
      * 将字符串换成大写并用逗号链接起来
+     *
+     * 例如逐一乘以某个数、除以某个数或者做其它操作。这些操作都很适合用 map() 方法，可以将转换逻辑以lambda表达式的形式放在 map() 方法里，就可以对集合的各个元素进行转换了
      */
     public static void joining(){
         List<String> G7 = Arrays.asList("USA", "Japan", "France", "Germany", "Italy", "U.K.","Canada");
