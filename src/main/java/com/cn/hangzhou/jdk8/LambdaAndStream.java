@@ -31,7 +31,7 @@ import java.util.stream.Stream;
  * http://stackoverflow.com/questions/5905896/intellij-inspection-gives-cannot-resolve-symbol-but-still-compiles-code
  *
  */
-public class StreamTest {
+public class LambdaAndStream {
 
     public static void main(String[] args) {
 
