@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b98624f3-0fe8-43b7-a8c2-d598d861a3d5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/jdk8/LambdaAndStream.java" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/jdk8/LambdaAndStream.java" />
-    </list>
+    <list default="true" id="b98624f3-0fe8-43b7-a8c2-d598d861a3d5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -774,12 +772,12 @@
       <option name="presentableId" value="Default" />
       <updated>1481857698011</updated>
       <workItem from="1481857702342" duration="5448000" />
-      <workItem from="1481868205972" duration="13418000" />
+      <workItem from="1481868205972" duration="13518000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18866000" />
+    <option name="totallyTimeSpent" value="18966000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
