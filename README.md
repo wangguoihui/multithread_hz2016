@@ -13,6 +13,14 @@ Usage
 
 3. 过独木桥问题
 
+4.排序sorting
+
+5.guava
+
+6.jdk1.8新特性
+
+7.类加载机制
+
    
 Pull Requests
 ===
