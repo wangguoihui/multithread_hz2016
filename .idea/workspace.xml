@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b98624f3-0fe8-43b7-a8c2-d598d861a3d5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.cn.hz/multithread_hz2016/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/META-INF/maven/com.cn.hz/multithread_hz2016/pom.xml" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/Basket$Consumer.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/Basket$Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/Basket$Product.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/Basket$Product.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/Basket.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/Basket.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/Consumer.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/Consumer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/Producer.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/Producer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/RunnableThread$ThreadA.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/RunnableThread$ThreadA.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/RunnableThread$ThreadB.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/RunnableThread$ThreadB.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/RunnableThread$ThreadC.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/RunnableThread$ThreadC.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/RunnableThread.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/RunnableThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/ApplicationStartupUtil.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/ApplicationStartupUtil.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/BaseHealthChecker.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/BaseHealthChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/CacheHealthChecker.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/CacheHealthChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/DatabaseHealthChecker.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/DatabaseHealthChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/Main.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/Main.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/NetworkHealthChecker.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/countDownLatch/NetworkHealthChecker.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/BlockingQueueHole$1.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/BlockingQueueHole$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/BlockingQueueHole.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/BlockingQueueHole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/Hole$1.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/Hole$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/Hole.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/Hole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/JoinHole$1.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/JoinHole$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/JoinHole.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/JoinHole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/LockHole$1.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/LockHole$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/LockHole.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/LockHole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/ProducerConsumerHole$1.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/ProducerConsumerHole$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/ProducerConsumerHole$2.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/ProducerConsumerHole$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/ProducerConsumerHole.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/ProducerConsumerHole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/SemaphoreHole$1.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/SemaphoreHole$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/SemaphoreHole.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/SemaphoreHole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/ThreadPoolHole$1.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/ThreadPoolHole$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/ThreadPoolHole.class" afterPath="$PROJECT_DIR$/target/classes/com/cn/hangzhou/hole/ThreadPoolHole.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/test-classes/com/cn/hangzhou/ProducerConsumerTest.class" afterPath="$PROJECT_DIR$/target/test-classes/com/cn/hangzhou/ProducerConsumerTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/hole/BlockingQueueHole.java" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/hole/BlockingQueueHole.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/hole/LockHole.java" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/hole/LockHole.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/hole/ProducerConsumerHole.java" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/hole/ProducerConsumerHole.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/hole/SemaphoreHole.java" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/hole/SemaphoreHole.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/hole/ThreadPoolHole.java" afterPath="$PROJECT_DIR$/src/main/java/com/cn/hangzhou/hole/ThreadPoolHole.java" />
-    </list>
+    <list default="true" id="b98624f3-0fe8-43b7-a8c2-d598d861a3d5" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,8 +33,8 @@
       <file leaf-file-name="SortArithmetic.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/hangzhou/sort/SortArithmetic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="165" column="11" lean-forward="true" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+            <state relative-caret-position="363">
+              <caret line="167" column="15" lean-forward="true" selection-start-line="167" selection-start-column="15" selection-end-line="167" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -829,16 +788,16 @@
       <option name="presentableId" value="Default" />
       <updated>1481857698011</updated>
       <workItem from="1481857702342" duration="5448000" />
-      <workItem from="1481868205972" duration="8932000" />
+      <workItem from="1481868205972" duration="9434000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14380000" />
+    <option name="totallyTimeSpent" value="14882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -855,7 +814,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1208,8 +1167,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/cn/hangzhou/sort/SortArithmetic.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="165" column="11" lean-forward="true" selection-start-line="165" selection-start-column="11" selection-end-line="165" selection-end-column="11" />
+        <state relative-caret-position="363">
+          <caret line="167" column="15" lean-forward="true" selection-start-line="167" selection-start-column="15" selection-end-line="167" selection-end-column="15" />
           <folding />
         </state>
       </provider>
