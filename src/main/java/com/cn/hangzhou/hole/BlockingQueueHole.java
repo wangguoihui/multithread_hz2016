@@ -27,7 +27,7 @@ public class BlockingQueueHole {
 	                    try {
 	                    	blockingQueue.put(1);
 	                        System.out.println(Thread.currentThread().getName());
-	                        TimeUnit.SECONDS.sleep(5);
+	                        TimeUnit.SECONDS.sleep(2);
 	                    } catch (InterruptedException e) {
 	                    	
 	                    }finally{

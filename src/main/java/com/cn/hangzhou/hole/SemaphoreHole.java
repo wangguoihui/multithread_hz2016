@@ -16,7 +16,7 @@ public class SemaphoreHole {
 
 	    private static ExecutorService threadPool   = Executors.newFixedThreadPool(THREAD_COUNT);
 
-	    static Semaphore semaphore = new Semaphore(1);
+	    static Semaphore semaphore = new Semaphore(2);
 	    
 	    public static void main(String[] args) {
 	        for (int i = 0; i < THREAD_COUNT; i++) {
@@ -26,7 +26,7 @@ public class SemaphoreHole {
 	                    try {
 	                    	semaphore.acquire();
 	                        System.out.println(Thread.currentThread().getName());
-	                        TimeUnit.SECONDS.sleep(5);
+	                        TimeUnit.SECONDS.sleep(2);
 	                    	semaphore.release();
 	                    } catch (InterruptedException e) {
 	                    }

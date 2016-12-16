@@ -28,7 +28,7 @@ public class ProducerConsumerHole {
 	            }
 	            products.add(product);
                 System.out.println(Thread.currentThread().getName()+"  生产了...size="+products.size());
-                TimeUnit.SECONDS.sleep(1);
+                TimeUnit.SECONDS.sleep(2);
 	            notEmpty.signal();
 	        } catch (InterruptedException e) {
 	            e.printStackTrace();
@@ -45,7 +45,7 @@ public class ProducerConsumerHole {
 	            }
 	            product = products.removeLast();
                 System.out.println(Thread.currentThread().getName()+"  消费了...size="+products.size());
-                TimeUnit.SECONDS.sleep(1);
+                TimeUnit.SECONDS.sleep(2);
 	            notFull.signal();
 	        } catch (InterruptedException e) {
 	            e.printStackTrace();

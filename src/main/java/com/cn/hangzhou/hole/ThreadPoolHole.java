@@ -13,7 +13,7 @@ public class ThreadPoolHole {
 	
  		private static final int       LOOP_COUNT = 10;
 
-	 	private static final int       THREAD_COUNT = 1;
+	 	private static final int       THREAD_COUNT = 2;
 
 	    private static ExecutorService threadPool   = Executors.newFixedThreadPool(THREAD_COUNT);
 	     
@@ -24,14 +24,17 @@ public class ThreadPoolHole {
 	                public void run() {
 	                    try {
 	                        System.out.println(Thread.currentThread().getName());
-	                        TimeUnit.SECONDS.sleep(5);
+	                        TimeUnit.SECONDS.sleep(2);
 	                    } catch (InterruptedException e) {	
 	                    }   
 	                }
 	            });
 	        }
 
+	        System.out.println(1);
 	        threadPool.shutdown();
+	        System.out.println(2);
+
 	    }
 	
 }

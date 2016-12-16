@@ -27,7 +27,7 @@ public class LockHole {
 	                	lock.lock();
 	                    try {
 	                        System.out.println(Thread.currentThread().getName());
-	                        TimeUnit.SECONDS.sleep(5);
+	                        TimeUnit.SECONDS.sleep(2);
 	                    } catch (InterruptedException e) {
 	                    	
 	                    }finally{
